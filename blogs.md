@@ -16,4 +16,4 @@
 * []() - 
 * []() - 
 * []() - 
-* [matter.js](http://brm.io/matter-js/) - a lightweight 2D physics engine for the web
+* [matter.js](http://brm.io/matter-js/) - a lightweight 2D ridgid body physics engine for the web. Source code is [available on GitHub](https://github.com/liabru/matter-js).
