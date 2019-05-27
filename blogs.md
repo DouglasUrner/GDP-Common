@@ -7,11 +7,15 @@
 * []() - 
 * []() - 
 * [Lessmilk](http://www.lessmilk.com) - Game development tutorials, including a series of 2D web games built with Phaser.
-* [Game Development.blog](https://www.gamedevelopment.blog) - UK site with lots of interesting tutorials, check out the one on collision detection.
+* [Game Development.blog](https://www.gamedevelopment.blog) - The blog of UK game developer John Day. There lots of interesting tutorials, check out the one on collision detection. There is also an interesting looking Unity tutorial that builds a full 2D game.
 * [JAYANAM](http://jayanam.com) - A mysterious German game developer (I presume) who is a prolific creator of tutorials for Unity and other tools, like Blender in English.
 
 ## Tools
 
+* [Alice]() - 
+* [Game Lab]() - 
+* []() - 
+* []() - 
 * [Unity]() - 
 * [Unreal Engine]() - 
 * [libgdx]() - 
