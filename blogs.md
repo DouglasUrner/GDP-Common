@@ -22,13 +22,13 @@
 
 ### Books On Game Design
 
-* Ernest Adams & Joris Dorman, *Game Mechanics: Advanced Game Design* ([PDF](https://fixnum.org/wim/Game%20Mechanics%20-%20Advanced%20Game%20Design%20-%20E.%20Adams,%20J.%20Dormans%20(New%20Riders,%202012)%20BBS.pdf))
+* Ernest Adams & Joris Dorman, *Game Mechanics: Advanced Game Design* ([PDF, 2012 ed.](https://fixnum.org/wim/Game%20Mechanics%20-%20Advanced%20Game%20Design%20-%20E.%20Adams,%20J.%20Dormans%20(New%20Riders,%202012)%20BBS.pdf))
 * Brenda Brathwaite & Ian Schreiber, ***Challenges For Game Designers***
 * Raph Koster, ***A Theory Of Fun For Game Design***
 * Scott McCloud, ***Understanding Comics***
 * Scott Rogers, ***Level Up! The guide to great video game design***
-* Katie Salen & Eric Zimmerman, *Rules of Play* ([PDF](https://gamifique.files.wordpress.com/2011/11/1-rules-of-play-game-design-fundamentals.pdf))
-* Jesse Schel, **
+* Katie Salen & Eric Zimmerman, *Rules of Play* ([PDF, 2004 ed.](https://gamifique.files.wordpress.com/2011/11/1-rules-of-play-game-design-fundamentals.pdf))
+* Jesse Schel, *The Art of Game Design: A Book of Lenses* ([PDF, 2008 ed.](http://www.sg4adults.eu/files/art-game-design.pdf))
 * Michael Sellers, ***Advanced Game Design***
 
 ## Teaching Game Design
