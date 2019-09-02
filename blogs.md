@@ -20,6 +20,12 @@
 
 ## Game Design Theory & Process
 
+## Teaching Game Design
+
+* **Eric Zimmerman: How I Teach Game Design**
+  - [Prologue: The Practice of Game Design](https://www.gamasutra.com/blogs/EricZimmerman/20130916/200310/How_I_Teach_Game_Design_prologue.php)
+  - [Lesson 1: The Game Design Process](https://www.gamasutra.com/blogs/EricZimmerman/20131019/202710/How_I_Teach_Game_Design_Lesson_1_The_Game_Design_Process.php)
+
 ## Tools
 
 * [Alice]() - 
