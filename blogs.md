@@ -22,6 +22,7 @@
 
 ### Essays
 
+* Keith Burgon, [What Makes A Game?](https://www.gamasutra.com/view/feature/167418/what_makes_a_game.php), 2012
 * Greg Costikyan, [I Have No Words & I Must Design: Toward a Critical Vocabulary for Games](http://www.costik.com/nowords2002.pdf), 1994
 
 ### Books On Game Design
