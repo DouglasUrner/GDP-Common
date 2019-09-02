@@ -22,6 +22,7 @@
 
 ### Books On Game Design
 
+* Ernest Adams & Joris Dorman, *Game Mechanics: Advanced Game Design*
 * Brenda Brathwaite & Ian Schreiber, ***Challenges For Game Designers***
 * Raph Koster, ***A Theory Of Fun For Game Design***
 * Scott McCloud, ***Understanding Comics***
