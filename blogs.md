@@ -22,6 +22,8 @@
 
 ### Books On Game Design
 
+* Brenda Brathwaite & Ian Schreiber, ***Challenges For Game Designers***
+* Raph Koster, ***A Theory Of Fun For Game Design***
 * Michael Sellers, ***Advanced Game Design***
 * Eric Zimmerman & Katie Salen, *Rules of Play*
 
