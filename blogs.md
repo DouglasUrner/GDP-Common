@@ -20,6 +20,11 @@
 
 ## Game Design Theory & Process
 
+### Books On Game Design
+
+* Michael Sellers, ***Advanced Game Design***
+* Eric Zimmerman & Katie Salen, *Rules of Play*
+
 ## Teaching Game Design
 
 * **Eric Zimmerman: How I Teach Game Design**
