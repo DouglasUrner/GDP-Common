@@ -24,8 +24,8 @@
 
 * Brenda Brathwaite & Ian Schreiber, ***Challenges For Game Designers***
 * Raph Koster, ***A Theory Of Fun For Game Design***
+* Katie Salen & Eric Zimmerman, *Rules of Play* ([PDF version](https://gamifique.files.wordpress.com/2011/11/1-rules-of-play-game-design-fundamentals.pdf))
 * Michael Sellers, ***Advanced Game Design***
-* Eric Zimmerman & Katie Salen, *Rules of Play*
 
 ## Teaching Game Design
 
@@ -34,6 +34,8 @@
   - [Lesson 1: The Game Design Process](https://www.gamasutra.com/blogs/EricZimmerman/20131019/202710/How_I_Teach_Game_Design_Lesson_1_The_Game_Design_Process.php)
   - [Lesson 2: Broken games and meaningful play](https://www.gamasutra.com/blogs/EricZimmerman/20140811/223107/How_I_Teach_Game_Design_Lesson_2_Broken_games_and_meaningful_play.php)
   - [Lesson 3: Games and Rules](https://www.gamasutra.com/blogs/EricZimmerman/20140826/224202/How_I_Teach_game_Design_Lesson_3_Games_and_Rules_.php)
+  
+* [**Ian Schreiber: Game Design Concepts](https://gamedesignconcepts.wordpress.com)
 
 ## Tools
 
