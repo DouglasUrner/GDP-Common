@@ -20,10 +20,16 @@
 
 ## Game Design Theory & Process
 
+### Essays
+
+* Greg Costikyan, [I Have No Words & I Must Design: Toward a Critical Vocabulary for Games](http://www.costik.com/nowords2002.pdf), 1994
+
 ### Books On Game Design
 
 * Ernest Adams & Joris Dorman, *Game Mechanics: Advanced Game Design* ([PDF, 2012 ed.](https://fixnum.org/wim/Game%20Mechanics%20-%20Advanced%20Game%20Design%20-%20E.%20Adams,%20J.%20Dormans%20(New%20Riders,%202012)%20BBS.pdf))
+* Anna Anthropy & Naomi Clark, *A Game Design Vocabulary*
 * Brenda Brathwaite & Ian Schreiber, ***Challenges For Game Designers***
+* Tracy Fullerton, *Game Design Workshop: A playcentric approach to creating innovative games*
 * Raph Koster, ***A Theory Of Fun For Game Design***
 * Scott McCloud, ***Understanding Comics***
 * Scott Rogers, ***Level Up! The guide to great video game design***
