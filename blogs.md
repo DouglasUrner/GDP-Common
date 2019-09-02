@@ -24,6 +24,7 @@
 
 * Brenda Brathwaite & Ian Schreiber, ***Challenges For Game Designers***
 * Raph Koster, ***A Theory Of Fun For Game Design***
+* Scott McCloud, ***Understanding Comics***
 * Katie Salen & Eric Zimmerman, *Rules of Play* ([PDF version](https://gamifique.files.wordpress.com/2011/11/1-rules-of-play-game-design-fundamentals.pdf))
 * Michael Sellers, ***Advanced Game Design***
 
