@@ -10,6 +10,16 @@
 * [Game Development.blog](https://www.gamedevelopment.blog) - The blog of UK game developer John Day. There lots of interesting tutorials, check out the one on collision detection. There is also an interesting looking Unity tutorial that builds a full 2D game.
 * [JAYANAM](http://jayanam.com) - A mysterious German game developer (I presume) who is a prolific creator of tutorials for Unity and other tools, like Blender in English.
 
+## Noteable People
+
+**Mattie Brice** - game critic and activist, interested in diversity in the industry. She is the creator of [Mainchi](http://www.mattiebrice.com/mainichi/). Mainichi page at [Games for Change](http://www.gamesforchange.org/game/mainichi/). References:
+* [Website: Alternate Ending](http://www.mattiebrice.com)
+* [Wikipedia article](https://en.wikipedia.org/wiki/Mattie_Brice)
+* [Gamasutra Blog](https://www.gamasutra.com/blogs/MattieBrice/900793/)
+* Talk at TEDxMiddlebury: [Using Play for Everyday Activism](https://youtu.be/tS4RvkiloHE)
+
+## Game Design Theory & Process
+
 ## Tools
 
 * [Alice]() - 
