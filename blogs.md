@@ -37,7 +37,9 @@
   - [Lesson 2: Broken games and meaningful play](https://www.gamasutra.com/blogs/EricZimmerman/20140811/223107/How_I_Teach_Game_Design_Lesson_2_Broken_games_and_meaningful_play.php)
   - [Lesson 3: Games and Rules](https://www.gamasutra.com/blogs/EricZimmerman/20140826/224202/How_I_Teach_game_Design_Lesson_3_Games_and_Rules_.php)
   
-* [**Ian Schreiber: Game Design Concepts**](https://gamedesignconcepts.wordpress.com)
+* **[Ian Schreiber](http://teachingdesign.blogspot.com):**
+  - **[Game Design Concepts](https://gamedesignconcepts.wordpress.com)**
+  - **[Game Balance Concepts](https://gamebalanceconcepts.wordpress.com)**
 
 ## Tools
 
