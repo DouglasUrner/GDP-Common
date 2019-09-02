@@ -32,6 +32,9 @@
 ## Teaching Game Design
 
 * **[Eric Zimmerman](http://www.ericzimmerman.com): How I Teach Game Design**
+
+This is a set of posts on Gamasutra, it appears to be unfinished.
+
   - [Prologue: The Practice of Game Design](https://www.gamasutra.com/blogs/EricZimmerman/20130916/200310/How_I_Teach_Game_Design_prologue.php)
   - [Lesson 1: The Game Design Process](https://www.gamasutra.com/blogs/EricZimmerman/20131019/202710/How_I_Teach_Game_Design_Lesson_1_The_Game_Design_Process.php)
   - [Lesson 2: Broken games and meaningful play](https://www.gamasutra.com/blogs/EricZimmerman/20140811/223107/How_I_Teach_Game_Design_Lesson_2_Broken_games_and_meaningful_play.php)
