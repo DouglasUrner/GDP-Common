@@ -30,7 +30,7 @@
 * Ernest Adams & Joris Dorman, *Game Mechanics: Advanced Game Design* ([PDF, 2012 ed.](https://fixnum.org/wim/Game%20Mechanics%20-%20Advanced%20Game%20Design%20-%20E.%20Adams,%20J.%20Dormans%20(New%20Riders,%202012)%20BBS.pdf))
 * Anna Anthropy & Naomi Clark, *A Game Design Vocabulary*
 * Brenda Brathwaite & Ian Schreiber, ***Challenges For Game Designers***
-* Tracy Fullerton, *Game Design Workshop: A playcentric approach to creating innovative games*
+* Tracy Fullerton, *Game Design Workshop: A playcentric approach to creating innovative games* ([PDF, ]())
 * Raph Koster, ***A Theory Of Fun For Game Design***
 * Colleen Maclin & John Sharp, *Games, Design and Play: A detailed approach to iterative game design*
 * Scott McCloud, ***Understanding Comics***
