@@ -32,6 +32,7 @@
 * Brenda Brathwaite & Ian Schreiber, ***Challenges For Game Designers***
 * Tracy Fullerton, *Game Design Workshop: A playcentric approach to creating innovative games*
 * Raph Koster, ***A Theory Of Fun For Game Design***
+* Colleen Maclin & John Sharp, *Games, Design and Play: A detailed approach to iterative game design*
 * Scott McCloud, ***Understanding Comics***
 * Scott Rogers, ***Level Up! The guide to great video game design***
 * Katie Salen & Eric Zimmerman, *Rules of Play* ([PDF, 2004 ed.](https://gamifique.files.wordpress.com/2011/11/1-rules-of-play-game-design-fundamentals.pdf))
