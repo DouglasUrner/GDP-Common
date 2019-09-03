@@ -61,12 +61,15 @@ This is a set of posts on Gamasutra, it appears to be unfinished.
   
 * **[La Molle Industria](http://www.molleindustria.org)**
   - [A Computerless Videogame Modding Workshop](http://www.molleindustria.org/blog/a-computerless-videogame-modding-workshop/)
+  
+* **[Harvard]**
+  - [GD50]() - online intro game design class.
 
 ## Tools
 
 * [Alice]() - 
 * [Game Lab]() - 
-* []() - 
+* [Love2D]() - used by Harvard's GD50 course
 * []() - 
 * [Unity]() - 
 * [Unreal Engine]() - 
