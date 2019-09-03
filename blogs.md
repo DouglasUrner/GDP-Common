@@ -53,6 +53,9 @@ This is a set of posts on Gamasutra, it appears to be unfinished.
 * **[Ian Schreiber](http://teachingdesign.blogspot.com):**
   - **[Game Design Concepts](https://gamedesignconcepts.wordpress.com)**
   - **[Game Balance Concepts](https://gamebalanceconcepts.wordpress.com)**
+  
+* **[La Molle Industria](http://www.molleindustria.org)**
+  - [A Computerless Videogame Modding Workshop](http://www.molleindustria.org/blog/a-computerless-videogame-modding-workshop/)
 
 ## Tools
 
