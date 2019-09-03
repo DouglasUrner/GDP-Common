@@ -18,6 +18,9 @@
 * [Gamasutra Blog](https://www.gamasutra.com/blogs/MattieBrice/900793/)
 * Talk at TEDxMiddlebury: [Using Play for Everyday Activism](https://youtu.be/tS4RvkiloHE)
 
+**[Jane McGonigal](https://janemcgonigal.com)
+* [Website: you found me](https://janemcgonigal.com)
+
 ## Game Design Theory & Process
 
 ### Essays
