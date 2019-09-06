@@ -28,6 +28,11 @@
 * Keith Burgon, [What Makes A Game?](https://www.gamasutra.com/view/feature/167418/what_makes_a_game.php), 2012
 * Greg Costikyan, [I Have No Words & I Must Design: Toward a Critical Vocabulary for Games](http://www.costik.com/nowords2002.pdf), 1994
 
+### Tools & Techniques
+
+* Mike Stout, [Evaluating Game Mechanics For Depth](https://www.gamasutra.com/view/feature/134273/evaluating_game_mechanics_for_depth.php?page=1)
+* 
+
 ### Books On Game Design
 
 * Ernest Adams & Joris Dorman, *Game Mechanics: Advanced Game Design* ([PDF, 2012 ed.](https://fixnum.org/wim/Game%20Mechanics%20-%20Advanced%20Game%20Design%20-%20E.%20Adams,%20J.%20Dormans%20(New%20Riders,%202012)%20BBS.pdf))
