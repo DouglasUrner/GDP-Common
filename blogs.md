@@ -31,7 +31,7 @@
 ### Tools & Techniques
 
 * Mike Stout, [Evaluating Game Mechanics For Depth](https://www.gamasutra.com/view/feature/134273/evaluating_game_mechanics_for_depth.php?page=1)
-* 
+* Francisco Souki, [Game Mechanics That Tell Stories](http://www.gamasutra.com/blogs/FranciscoSouki/20090625/2130/Game_Mechanics_That_Tell_Stories.php)
 
 ### Books On Game Design
 
