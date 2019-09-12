@@ -10,3 +10,8 @@ After completing the poster:
 
 Then, use sticky notes to leave feedback on the other posters. Leave either:
 
+* Positive, constructive feedback - “Your examples were clear and easy to understand.” Or
+* A clarifying question - “Could you explain more about how this mechanic works, I didn’t understand…”
+
+Leave _at least_ two notes.
+
