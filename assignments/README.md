@@ -4,3 +4,4 @@ Unit on the design process and the theory of game design. Taught as a full unit 
 * [A Theory of Fun](theory-of-fun)
 * [The MDA Framework](mda-framework)
 * [The Elements of Games](elements-of-games)
+* [Fixing Broken Games](fixing-broken-games)
