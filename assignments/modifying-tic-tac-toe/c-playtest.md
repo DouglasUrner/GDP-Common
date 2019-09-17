@@ -1,6 +1,8 @@
-[slides]: <>
+[slides]: <https://drive.google.com/open?id=1NSaUxBSp9xRf-8SIxjrJUWzplW8gb3gT9DTuW2SRj6s>
 
 ## Process
+
+The [slides][] are available if you want to review them.
 
 ## Submission
 
