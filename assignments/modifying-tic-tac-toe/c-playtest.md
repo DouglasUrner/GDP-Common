@@ -1,3 +1,5 @@
+## Process
+
 ## Submission
 
 You will submit two items: your notes, and the playtest reports which will be collected and passed along to the game designers.
