@@ -17,7 +17,7 @@ We will practice on the classic version of Tic-Tac-Toe and then you will create 
 
 ## Instructions
 
-Use the [template][] to create an MDA chart for your modified version of Tic-Tac-Toe.
+Use the [template][] to create an MDA chart showing how you modified your new version of Tic-Tac-Toe.
 
 * Start by defining *mechanics, dynamics,* and *aesthetics* in your own words.
 * Then fill out the MDA columns for "classic" Tic-Tac-Toe.
