@@ -1,7 +1,7 @@
 [template]: <https://docs.google.com/document/d/10GITO3XIigZSzCg6e3khjg89FRZBDe_F2TD0VWOqkOA/edit?usp=sharing>
 [slides]: <https://docs.google.com/presentation/d/1R0KdxhVw9DITzYugEwiwsXHXqnXJP9Yto32gNltBrOE/edit?usp=sharing>
 
-<img src="assets/mda-framework.png" align="right">
+<img src="assets/mda-framework.png" align="right" width="50%">
 
 The **Mechanics, Dynamics, Aesthetics** (MDA) framework was one of the first attempts to develop a theory of game design.
 
