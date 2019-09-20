@@ -18,3 +18,8 @@ We will practice on the classic version of Tic-Tac-Toe and then you will create 
 Use the [template][] to create an MDA chart for your modified version of Tic-Tac-Toe.
 
 Submit the document as usual.
+
+## Resources
+
+* [Presentation Slides][slides]
+* The original [MDA: A Formal Approach to Game Design and Game Research](https://www.cs.northwestern.edu/~hunicke/MDA.pdf) paper
