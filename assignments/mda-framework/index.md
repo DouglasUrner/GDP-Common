@@ -26,7 +26,7 @@ Use the [template][] to create an MDA chart showing how you modified your new ve
   - How will the *dynamics* of the game need to change to support the aesthetics that you want?
   - Ideas for *mechanics* that (you hope) will accomplish your goals.
 * Format additions in **bold**.
-* Format deletions as strike outs (Alt-Shift-5) through the elements that you are eliminating.
+* Format deletions as <del>strike outs</del> (Alt-Shift-5) through the elements that you are eliminating.
 
 Submit the document as usual.
 
